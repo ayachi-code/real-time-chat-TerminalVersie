@@ -5,14 +5,8 @@ class chat:
     def __init__():
          global groet
 
-
     def inloggen():
         print("Welkom bij")
-
-    def registreren():
-        print("welkom bij registreren")
-        
-
 
     def home():
         print("Welkom bij chat-app-by-bilal")
@@ -21,7 +15,12 @@ class chat:
         if groet == "1":
             inloggen()
         elif groet == "2":
-            registreren()
+            registreren.test()
+
+
+class registreren:
+    def test():
+        print("hey")
 
 
 
