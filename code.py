@@ -10,9 +10,13 @@ class chat:
         print("1 inloggen 2 registreren")
         groet = input("Type een keuze ")
         if groet == "1":
-            print("inloggen")
+            inloggen()
         elif groet == "2":
-            print("registreren")
+            registreren()
+
+    def inloggen():
+        print("inloggen")
+
 
 
 home = chat.home()
