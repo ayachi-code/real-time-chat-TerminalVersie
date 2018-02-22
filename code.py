@@ -16,8 +16,8 @@ class chat:
 
 
 class registreren:
-    def test():
-        print("hey")
+    def home():
+        print("welkom bij registreren")
 
 
 
