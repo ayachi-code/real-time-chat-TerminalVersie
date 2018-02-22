@@ -18,6 +18,10 @@ class chat:
 class registreren:
     def home():
         print("welkom bij registreren")
+        naam = input("Type een gebruikersnaam ")
+        email = input("Type je mail")
+        wachtwoord1 = input("Type je wachtwoord")
+        wachtwoord2 = input("Herhaal je wachtwoord goed")
 
 
 
