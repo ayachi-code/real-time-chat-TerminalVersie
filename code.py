@@ -7,10 +7,11 @@ class chat:
 
 
     def inloggen():
-        print("inloggen")
+        print("Welkom bij")
 
     def registreren():
-        print("registrern")
+        print("welkom bij registreren")
+        
 
 
     def home():
