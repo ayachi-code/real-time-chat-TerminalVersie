@@ -17,6 +17,9 @@ class chat:
     def inloggen():
         print("inloggen")
 
+    def registreren():
+        print("registrern")
+
 
 
 home = chat.home()
